@@ -2,6 +2,9 @@
 
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
+## Watch video here
+https://youtu.be/ekI45z8KCKg
+
 ## Description
 This applicating was made by Me, myself, and Leigh (our amazing TA) 
 It is licensed under Artistic License 2.0 
